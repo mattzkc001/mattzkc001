@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi I am Matt Ezekeil Castillo 
+-3rd year Student
+-Taking the Course BSIT
+-Studying at Central Philippine University
+
+  Fun facts about me
+ ⚡Marites
+ ⚡Masteral Degree in Vaping
+ ⚡Gamer
+ ⚡Adventurous
+ ⚡Emo
+
+
 
 <!--
 **mattzkc001/mattzkc001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
